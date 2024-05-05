@@ -1,0 +1,27 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.emo {
+  font-size: 300% !important;
+  text-align: center !important;
+}
+.but {
+  font-size: 60% !important;
+}
+.card-body {
+  text-align: center !important;
+  background: rgb(34, 193, 195);
+  background: linear-gradient(
+    0deg,
+    rgba(34, 193, 195, 1) 0%,
+    rgba(253, 187, 45, 0.8883928571428571) 100%
+  );
+}
+.heading {
+  text-align: center;
+  font-weight: 900;
+  font-style: oblique;
+}
