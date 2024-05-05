@@ -14,5 +14,6 @@ You can use this API to retrieve information about emojis, including their names
 GET https://emojihub.yurace.pro/api/all
 
 
-##notes:
+## Notes
+
    The starting of page fetch 1000 emojis so it will take some time to load
